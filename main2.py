@@ -6,7 +6,6 @@ Created on Sat Oct 19 14:52:11 2024
 """
 import pickle
 import streamlit as st
-from spotipy.oauth2 import SpotifyOAuth
 import spotipy
 
 # Spotify API credentials
